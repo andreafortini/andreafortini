@@ -1,10 +1,9 @@
 ## Hi, I’m @andreafortini :wave:
 
-I am a final year student in a Master's programme in Computer Engineering at [University of Ferrara](http://www.unife.it/it)
+I am a machine learning engineer and occasionally a data engineer at [Reply](https://www.reply.com/en/)
 
-- 🧑🏼‍💻 Currently working on my final thesis on **Deep Learning** and **Computer Vision**
-- 🌱 Learning stuff about **Machine Learning** and **Deep Learning**
-- ⚙️ I mostly use `.py` `.ipynb` `.csv` `.h5`
+- 🧑🏼‍💻 Currently playing with **Deep Learning** models on **AWS** 
+- 🌱 Never stop learning about **Machine Learning** and **Deep Learning**
+- ⚙️ I mostly use `.py` `.ipynb`
 - 📊 Fascinated by the power of data
 - 🌌 In my free time I try to become a Jedi knight
-- 📫 Reach me: andrea02.fortini@edu.unife.it
